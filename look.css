@@ -187,3 +187,5 @@ a.pair:hover h3{color:var(--seal)}
   .sec{padding-top:56px}
   .sec h2{font-size:26px}
 }
+.srcs{font-size:12.5px!important;color:var(--mute)!important;margin-top:14px;line-height:1.6}
+#local .signs a{text-decoration:underline;text-underline-offset:3px}
